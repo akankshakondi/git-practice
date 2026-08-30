@@ -1,3 +1,6 @@
- Hello from the master branch! i love git... Hello, I am learning Git and GitHub!
-I created my first branch. 
+Hello from the master branch!
+Hello from the conflict branch!
+
+Hello, I am learning Git and GitHub!
+I created my first branch.
 I am learning Git branches and pull requests.
